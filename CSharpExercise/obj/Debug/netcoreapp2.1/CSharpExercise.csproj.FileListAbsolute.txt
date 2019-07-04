@@ -1,0 +1,11 @@
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\bin\Debug\netcoreapp2.1\CSharpExercise.deps.json
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\bin\Debug\netcoreapp2.1\CSharpExercise.runtimeconfig.json
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\bin\Debug\netcoreapp2.1\CSharpExercise.runtimeconfig.dev.json
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\bin\Debug\netcoreapp2.1\CSharpExercise.dll
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\bin\Debug\netcoreapp2.1\CSharpExercise.pdb
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\obj\Debug\netcoreapp2.1\CSharpExercise.csprojAssemblyReference.cache
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\obj\Debug\netcoreapp2.1\CSharpExercise.csproj.CoreCompileInputs.cache
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\obj\Debug\netcoreapp2.1\CSharpExercise.AssemblyInfoInputs.cache
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\obj\Debug\netcoreapp2.1\CSharpExercise.AssemblyInfo.cs
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\obj\Debug\netcoreapp2.1\CSharpExercise.dll
+C:\Users\Alex Gujas\Desktop\LocalWorkingFiles\GitHubCSharpProj\C-Exercise\CSharpExercise\obj\Debug\netcoreapp2.1\CSharpExercise.pdb

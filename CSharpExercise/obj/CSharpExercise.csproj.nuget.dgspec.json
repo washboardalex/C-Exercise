@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aleksandar\\source\\repos\\CSharpExercise\\CSharpExercise\\CSharpExercise.csproj": {}
+    "C:\\Users\\Alex Gujas\\Desktop\\LocalWorkingFiles\\GitHubCSharpProj\\C-Exercise\\CSharpExercise\\CSharpExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aleksandar\\source\\repos\\CSharpExercise\\CSharpExercise\\CSharpExercise.csproj": {
+    "C:\\Users\\Alex Gujas\\Desktop\\LocalWorkingFiles\\GitHubCSharpProj\\C-Exercise\\CSharpExercise\\CSharpExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aleksandar\\source\\repos\\CSharpExercise\\CSharpExercise\\CSharpExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Alex Gujas\\Desktop\\LocalWorkingFiles\\GitHubCSharpProj\\C-Exercise\\CSharpExercise\\CSharpExercise.csproj",
         "projectName": "CSharpExercise",
-        "projectPath": "C:\\Users\\Aleksandar\\source\\repos\\CSharpExercise\\CSharpExercise\\CSharpExercise.csproj",
-        "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aleksandar\\source\\repos\\CSharpExercise\\CSharpExercise\\obj\\",
+        "projectPath": "C:\\Users\\Alex Gujas\\Desktop\\LocalWorkingFiles\\GitHubCSharpProj\\C-Exercise\\CSharpExercise\\CSharpExercise.csproj",
+        "packagesPath": "C:\\Users\\Alex Gujas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex Gujas\\Desktop\\LocalWorkingFiles\\GitHubCSharpProj\\C-Exercise\\CSharpExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alex Gujas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
